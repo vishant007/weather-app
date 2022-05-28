@@ -7,6 +7,8 @@
 ```sh
 	npm start
  ```
+ 
+ - API : https://openweathermap.com/
 
 ### App Preview :
 
